@@ -1,0 +1,278 @@
+/* Type */
+
+body {
+	background-color: black;
+	color: orange;
+	line-height: 1.3;
+    font-size: 1em;
+    font-family: 'Concert One', cursive;
+    font-weight: 400;
+    margin: 2em;
+    border-right: 40em double blue;
+    border-top: 100px double blue;
+    border-left:40em double blue;
+    border-bottom: 100px double blue;
+    width: 240pt;
+    height: 500pt;
+}
+.CAP_B{
+	display: block;
+    font-size: 6em;
+    max-width: 15em;
+    margin-block-start: 360px;
+    margin-block-end: 4px;
+    margin-left: 263.9px;
+    position: absolute;
+    transform: skew(62deg, -22deg);
+    color: #90909091;
+    line-height: 2em;
+  
+}
+.CAP_B2{
+	display: block;
+    font-size: 9em;
+    max-width: 15em;
+    margin-block-start: 294px;
+    margin-block-end: 0px;
+    margin-left: 310.9px;
+    position: absolute;
+    color: red;
+    line-height: 2em;
+    text-shadow: -10px 0px #ffb8a5;
+    filter: blur(1px);
+}
+.CAP_U{
+	display: block;
+    font-size: 6em;
+    max-width: 15em;
+    margin-block-start: 478px;
+    margin-block-end: 4px;
+    margin-left: 359.9px;
+    position: absolute;
+    transform: skew(62deg, -22deg);
+    color: #90909091;
+    line-height: 2em;
+    }
+    .CAP_U2{
+	display: block;
+    font-size: 9em;
+    max-width: 15em;
+    margin-block-start: 408px;
+    margin-block-end: 4px;
+    margin-left: 394.9px;
+    position: absolute;
+    color: red;
+    line-height: 2em;
+    text-shadow: -8px 2px #ffb8a5;
+    filter: blur(1px);
+    }
+    .CAP_R{
+	display: block;
+    font-size: 6em;
+    max-width: 15em;
+    margin-block-start: 527px;
+    margin-block-end: 4px;
+    margin-left: 537.9px;
+    position: absolute;
+    transform: skew(62deg, -22deg);
+    color: #90909091;
+    line-height: 2em;
+    }
+    .CAP_R2{
+	display: block;
+    font-size: 9em;
+    max-width: 15em;
+    margin-block-start: 465px;
+    margin-block-end: 4px;
+    margin-left: 589.9px;
+    position: absolute;
+    color: red;
+    line-height: 2em;
+    text-shadow: -10px -2px #ffb8a5;
+    filter: blur(1px);
+    }
+    .CAP_N{
+	display: block;
+    font-size: 5em;
+    max-width: 15em;
+    margin-block-start: 570px;
+    margin-block-end: 4px;
+    margin-left: 718.9px;
+    position: absolute;
+    transform: skew(62deg, -22deg);
+    color: #90909091;
+    line-height: 2em;
+    }
+    .CAP_N2{
+	display: block;
+    font-size: 8em;
+    max-width: 15em;
+    margin-block-start: 508px;
+    margin-block-end: 4px;
+    margin-left: 764.9px;
+    position: absolute;
+    color: red;
+    line-height: 2em;
+    text-shadow: -8px 0px #ffb8a5;
+    filter: blur(1px);
+    }
+.letter1{
+	display: block;
+    font-size: 4em;
+    max-width: 15em;
+    margin-block-start: 0em;
+    margin-block-end: 0px;
+    margin-left: 6.9em;
+    position: absolute;
+    transform: rotate(-38deg);
+    color: red;
+    line-height: 2em;
+    text-shadow: 3px 0px #fff000;
+    filter: blur(2px);
+   
+}
+.letter2{
+	display: block;
+    font-size: 4em;
+    max-width: 15em;
+    margin-block-start: 0em;
+    margin-block-end: 0px;
+    margin-left: 9.9em;
+    position: absolute;
+    transform: rotate(24deg);
+    color: red;
+    line-height: 2em;
+    text-shadow: 3px 0px #fff000;
+    filter: blur(2px);
+   
+}
+.letter3{
+	display: block;
+    font-size: 4em;
+    max-width: 15em;
+    margin-block-start: 3.2em;
+    margin-block-end: 0px;
+    margin-left: 10.0em;
+    position: absolute;
+    transform: rotate(146deg);
+    color: red;
+    line-height: 2em;
+    text-shadow: 3px 0px #fff000;
+    filter: blur(2px);
+ 
+}
+.letter4{
+	display: block;
+    font-size: 4em;
+    max-width: 15em;
+    margin-block-start: 3.2em;
+    margin-block-end: 0px;
+    margin-left: 7.5em;
+    font-weight: bold;
+    position: absolute;
+    transform: rotate(-139deg);
+    line-height: 2em;
+    color: red;
+    text-shadow: 3px 0px #fff000;
+    filter: blur(2px);
+
+}
+.letterskew{
+	display: block;
+    font-size: 1.3em;
+    margin-block-start: 8.5em;
+    margin-left: 28.1em;
+    position: absolute;
+    transform: skewY(33deg);
+    filter: drop-shadow(0px 22px 2px #b5b5b5d9);
+    text-shadow: 3px 1px black;
+    /* text-decoration: underline; */
+    /* background-color: green;*/
+
+}
+.letterskew2{
+    display: block;
+    font-size: 2.2em;
+    margin-block-start: 7.5em;
+    margin-left: 2.9em;
+    position: absolute;
+    transform: skewY(-38deg);
+    filter: drop-shadow(0px 22px 2px #b5b5b5d9);
+    text-shadow: 3px 0px black;
+    /* text-decoration: underline; */
+    /* background-color: green;*/
+
+}
+.letterskew3{
+    display: block;
+    font-size: 2.3em;
+    margin-block-start: 10.1em;
+    margin-left: 11.1em;
+    position: absolute;
+    transform: skewY(38deg);
+    text-shadow: 3px 0px black;
+    filter: drop-shadow(0px 22px 2px #b5b5b5d9);
+    }
+ .letterskew4{
+    display: block;
+    font-size: 1.3em;
+    margin-block-start: 10.1em;
+    margin-left: -3.9em;
+    position: absolute;
+    transform: skewY(38deg);
+    text-shadow: 3px 0px black;
+    filter: drop-shadow(0px 22px 2px #b5b5b5d9);
+    }
+ .letterskew5{
+    display: block;
+    font-size: 3.1em;
+    margin-block-start: 4.1em;
+    margin-left: -12.9em;
+    position: absolute;
+    transform: skewY(-33deg);
+    text-shadow: 3px 0px black;
+    filter: drop-shadow(0px 22px 2px #b5b5b5d9);
+    }
+    .letterskew6{
+    display: block;
+    font-size: 1.1em;
+    margin-block-start: 4.1em;
+    margin-left: 1.1em;
+    position: absolute;
+    transform: skewY(-35deg);
+    text-shadow: 3px 0px black;
+    filter: drop-shadow(0px 22px 2px #b5b5b5d9);
+    }
+    .letterskew7{
+    display: block;
+    font-size: 3.1em;
+    margin-block-start: 422px;
+    margin-left: -510.9px;
+    position: absolute;
+    transform: skewY(1deg);
+    text-shadow: 3px 0px black;
+    filter: drop-shadow(0px 19px 2px #b5b5b5d9);
+    }
+.fire{
+	font-size: 164px;
+    position: absolute;
+    margin-block-start: -1em;
+    margin-left: -3em;
+    filter: drop-shadow(-11px 1px 5px red);
+}
+.fire2{
+	font-size: 164px;
+    position: absolute;
+    margin-block-start: -163px;
+    margin-left: -513px;
+    filter: drop-shadow(36px -7px 5px white);
+}
+.other-font{
+	font-family: 'Grandstander', cursive;
+}
+.new-color {
+	color: black;
+}
+.new-color2 {
+	color: #ffd400;
+}
