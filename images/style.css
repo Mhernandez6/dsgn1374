@@ -1,0 +1,135 @@
+/* Images */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: blue;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d1/Fish_school_Ripleys_Aquarium_2014.jpg);
+	color: black;
+	font-family: 'Itim', cursive;
+	font-weight: normal;
+	line-height: 1.4;
+	font-size: 16px;
+	margin: 0.25em;
+}
+
+img {
+	max-width: 100%;
+}
+
+.grid {
+	display: flex;
+	 flex-wrap: wrap;
+}
+
+.item {
+	width: 35%;
+    padding: -2.75em;
+    position: absolute;
+    margin-block-start: 32em;
+    margin-left: 39em;
+    border-style: solid;
+    border-width: 20px;
+    box-shadow: 15px 10px;
+    border-color: red;
+    border-radius: 1em;
+}
+
+.item2 {
+	width: 28%;
+    padding: 0.25em;
+    position: absolute;
+    margin-block-start: 44em;
+    margin-left: 82em;
+    border-style: solid;
+    border-width: 20px;
+    box-shadow: 15px 10px;
+    border-color: red;
+    border-radius: 1em;
+}
+
+.item3 {
+	width: 31%;
+    padding: 0.25em;
+    position: absolute;
+    margin-block-start: 37em;
+    margin-left: 0em;
+    border-style: solid;
+    border-width: 20px;
+    box-shadow: 15px 10px;
+    border-color: red;
+    border-radius: 1em;
+}
+
+.topbanner {
+	width: 47%;
+    padding: 0.25em;
+    position: absolute;
+    margin-block-start: 6em;
+    margin-left: 30em;
+    border-style: dashed;
+    border-width: 20px;
+    border-color: red;
+    }
+
+.title{
+	width: 82%;
+    padding: 0.25em;
+    position: absolute;
+    margin-block-start: 9em;
+    margin-left: 41em;
+}
+
+.title2{
+	width: 82%;
+    padding: 0.25em;
+    position: absolute;
+    margin-block-start: 26em;
+    margin-left: 41em;
+}
+
+.title3{
+	width: 82%;
+    padding: 0.25em;
+    position: absolute;
+    margin-block-start: 2em;
+    margin-left: 3em;
+}
+
+.words {
+	width: 31%;
+    font-size: 26px;
+    position: absolute;
+    margin-block-start: 19em;
+    margin-left: 26em;
+    color: black;
+}
+
+.loading{
+	width: 25%;
+    font-size: 26px;
+    position: absolute;
+    margin-block-start: 30em;
+    margin-left: 51em;
+    color: black;
+}
+
+.loading2{
+	width: 25%;
+    font-size: 26px;
+    position: absolute;
+    margin-block-start: 30em;
+    margin-left: 1em;
+    color: black;
+}
+
+.dsgn{
+	width: 22%;
+    font-size: 26px;
+    position: absolute;
+    margin-block-start: 9em;
+    margin-left: 0em;
+    color: black;
+}
